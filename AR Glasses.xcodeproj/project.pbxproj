@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		E732441627EA0CC900DFA95C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E732441527EA0CC900DFA95C /* AppDelegate.swift */; };
 		E732441827EA0CC900DFA95C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E732441727EA0CC900DFA95C /* ContentView.swift */; };
-		E732441A27EA0CC900DFA95C /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = E732441927EA0CC900DFA95C /* Experience.rcproject */; };
 		E732441C27EA0CCD00DFA95C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E732441B27EA0CCD00DFA95C /* Assets.xcassets */; };
 		E732441F27EA0CCD00DFA95C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E732441E27EA0CCD00DFA95C /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		E732441227EA0CC900DFA95C /* AR Glasses.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Glasses.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E732441527EA0CC900DFA95C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E732441727EA0CC900DFA95C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E732441927EA0CC900DFA95C /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		E732441B27EA0CCD00DFA95C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E732441E27EA0CCD00DFA95C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				E732441527EA0CC900DFA95C /* AppDelegate.swift */,
 				E732441727EA0CC900DFA95C /* ContentView.swift */,
-				E732441927EA0CC900DFA95C /* Experience.rcproject */,
 				E732441B27EA0CCD00DFA95C /* Assets.xcassets */,
 				E732441D27EA0CCD00DFA95C /* Preview Content */,
 			);
@@ -142,7 +139,6 @@
 			files = (
 				E732441827EA0CC900DFA95C /* ContentView.swift in Sources */,
 				E732441627EA0CC900DFA95C /* AppDelegate.swift in Sources */,
-				E732441A27EA0CC900DFA95C /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
