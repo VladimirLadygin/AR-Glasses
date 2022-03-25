@@ -11,6 +11,7 @@
 		E732441827EA0CC900DFA95C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E732441727EA0CC900DFA95C /* ContentView.swift */; };
 		E732441C27EA0CCD00DFA95C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E732441B27EA0CCD00DFA95C /* Assets.xcassets */; };
 		E732441F27EA0CCD00DFA95C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E732441E27EA0CCD00DFA95C /* Preview Assets.xcassets */; };
+		E7FAEA2727EE132C0033C54A /* IMG_7990.PNG in Resources */ = {isa = PBXBuildFile; fileRef = E7FAEA2627EE132C0033C54A /* IMG_7990.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E732441727EA0CC900DFA95C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E732441B27EA0CCD00DFA95C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E732441E27EA0CCD00DFA95C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E7FAEA2627EE132C0033C54A /* IMG_7990.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_7990.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		E732440927EA0CC900DFA95C = {
 			isa = PBXGroup;
 			children = (
+				E7FAEA2827EE13410033C54A /* Screenshots */,
 				E732441427EA0CC900DFA95C /* AR Glasses */,
 				E732441327EA0CC900DFA95C /* Products */,
 			);
@@ -65,6 +68,14 @@
 				E732441E27EA0CCD00DFA95C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E7FAEA2827EE13410033C54A /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				E7FAEA2627EE132C0033C54A /* IMG_7990.PNG */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +138,7 @@
 			files = (
 				E732441F27EA0CCD00DFA95C /* Preview Assets.xcassets in Resources */,
 				E732441C27EA0CCD00DFA95C /* Assets.xcassets in Resources */,
+				E7FAEA2727EE132C0033C54A /* IMG_7990.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
